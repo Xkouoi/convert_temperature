@@ -4,6 +4,8 @@ def fahrenheit_to_celsius(temperature_fahr):
 	Parameters: temperature un Fahr
 
 	Returns: temperature in Celsius
+
+        I HAVE THE POWER NOW!!!
 	"""
 
 	temperature_celsius = (temperature_fahr-32)*(5.0/9.0)
